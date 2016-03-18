@@ -24,6 +24,8 @@
     "common",
     "common-callback-names",
     "done",
+    "list",
+    "name",
     "names",
     "next"
   ],
