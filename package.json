@@ -16,7 +16,8 @@
     "pre-commit": "*"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "list.json"
   ],
   "keywords": [
     "callback",
