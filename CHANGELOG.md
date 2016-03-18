@@ -1,5 +1,9 @@
 
 
+## 1.0.2 - 2016-03-18
+- Release v1.0.2 / npm@v1.0.2
+- update related list
+
 ## 1.0.1 - 2016-03-18
 - Release v1.0.1 / npm@v1.0.1
 - add `list.json` to files field
