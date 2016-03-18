@@ -1,0 +1,46 @@
+{
+  "name": "common-callback-names",
+  "version": "0.0.0",
+  "description": "List of common callback names - callback, cb, callback_, next, done.",
+  "repository": "tunnckoCore/common-callback-names",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "precommit.silent": true,
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "pre-commit": "*"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "callback",
+    "cb",
+    "common",
+    "common-callback-names",
+    "done",
+    "names",
+    "next"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "empty",
+    "tasks": [
+      "readme"
+    ],
+    "related": {
+      "list": [
+        "function-arguments",
+        "get-fn-name",
+        "parse-function",
+        "is-async-function"
+      ]
+    }
+  }
+}
