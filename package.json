@@ -42,7 +42,8 @@
         "function-arguments",
         "get-fn-name",
         "parse-function",
-        "is-async-function"
+        "is-async-function",
+        "is-callback-function"
       ]
     }
   }
