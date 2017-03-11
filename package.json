@@ -1,6 +1,6 @@
 {
   "name": "common-callback-names",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "List of common callback names - callback, cb, callback_, next, done.",
   "repository": "tunnckoCore/common-callback-names",
   "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",

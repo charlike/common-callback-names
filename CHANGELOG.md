@@ -1,3 +1,27 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/tunnckocore/common-callback-names/compare/v1.0.2...v2.0.0) (2017-03-11)
+
+
+### Bug Fixes
+
+* **readme:** remove redundant API section ([57f90c1](https://github.com/tunnckocore/common-callback-names/commit/57f90c1))
+
+
+### Code Refactoring
+
+* **simplify:** just export an array directly ([a3bde83](https://github.com/tunnckocore/common-callback-names/commit/a3bde83))
+
+
+### BREAKING CHANGES
+
+* simplify: No more ./list.json file
+
+
+
 
 
 ## 1.0.2 - 2016-03-18
