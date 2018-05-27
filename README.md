@@ -141,13 +141,13 @@ _Project scaffolded using [charlike][] cli._
 <!-- -->
 
 
-[npmv-url]: https://www.npmjs.com/package/is-kindof
-[npmv-img]: https://img.shields.io/npm/v/is-kindof.svg?label=npm%20version
+[npmv-url]: https://www.npmjs.com/package/common-callback-names
+[npmv-img]: https://img.shields.io/npm/v/common-callback-names.svg?label=npm%20version
 
-[github-release-url]: https://github.com/olstenlarck/is-kindof/releases/latest
-[github-release-img]: https://img.shields.io/github/tag/olstenlarck/is-kindof.svg?label=github%20tag
+[github-release-url]: https://github.com/olstenlarck/common-callback-names/releases/latest
+[github-release-img]: https://img.shields.io/github/tag/olstenlarck/common-callback-names.svg?label=github%20tag
 
-[license-url]: https://github.com/olstenlarck/is-kindof/blob/master/LICENSE
+[license-url]: https://github.com/olstenlarck/common-callback-names/blob/master/LICENSE
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg
 
 
